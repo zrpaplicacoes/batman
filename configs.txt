@@ -1,0 +1,6 @@
+#################################
+#		Batman - Battery Manager    #
+#################################
+
+source #BATTERY_SYMBOL='\u2022'
+source ~/bin/batman/plugin.sh

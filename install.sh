@@ -11,5 +11,10 @@ echo "\nDone dependencies"
 ############################
 echo "\nMoving files..."
 
+cd ..
+cat batman/configs.txt >> ~/.bashrc
+mv batman ~/bin/batman
+
 ############################
-cat nanananana.txt
+cat batman/nanananana.txt
+sudo rm -r batman
