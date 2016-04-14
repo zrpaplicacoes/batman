@@ -1,10 +1,12 @@
 #!/bin/sh
 
 ############################
-echo "Checking for dependencies.."
+echo "Checking for acpi..."
 
-local version = acpi -v
+if ! type "acpi" > /dev/null; then
+  sudo apt-get install acpi
+fi
 
+echo "\nDone dependencies\n"
 ############################
 cat nanananana.txt
-echo "\nDone :)"
