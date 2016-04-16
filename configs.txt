@@ -2,5 +2,17 @@
 #		Batman - Battery Manager    #
 #################################
 
-source #BATTERY_SYMBOL='\u2022'
+# You can personalizate your
+# battery manager by changing
+# global variables.
+# Read the documentation
+# for further info in:
+# https://github.com/zrpaplicacoes/batman
+
+#################################
+
+# Example:
+#	BATTERY_SYMBOL='\u1696'
+# DANGER_COLOR='\e[0;35m'
+
 source ~/bin/batman/plugin.sh
