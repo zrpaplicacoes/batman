@@ -25,7 +25,8 @@ echo "\n Done! \n"
 
 ############################
 
-while IFS='' read -r line || [[ -n "$line" ]]; do
+while IFS='' read -r line
+do
   echo "$line"
 done < "$current_path/nanananana.txt"
 
