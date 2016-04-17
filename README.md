@@ -1,10 +1,17 @@
+![Batman Gif](http://orig15.deviantart.net/67eb/f/2012/205/e/4/pikachu___batman_by_mnrart-d58f68d.gif)
+
 # Batman - CLI Battery Manager
+
 
 ## Introduction
 
 **Batman** is a simple shell plugin which adds in the Right Prompt icons showing battery status. 
 
 It's focused on programmers who spend lots of time programming in notebooks. :sunglasses:
+
+Look at those arrows :scream: :
+
+![Batman Demo](http://labs.zrp.com.br/wp-content/uploads/2016/04/shell-300x45.png "Demo of batman icons")
 
 ## Installation
 
