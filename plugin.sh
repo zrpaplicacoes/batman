@@ -62,6 +62,7 @@ color_reset() {
 
 # export battery status in RPROMPT
 reset_battery_status() {
+	local battery_level=$(get_level)
 	export RPROMPT="$(display_color $battery_level)$(print_battery_icons $battery_level)$(color_reset)"
 }
 
@@ -75,5 +76,4 @@ preexec() {
 #####################################################
 # 								EXECUTION													#
 #####################################################
-local battery_level=$(get_level)
 reset_battery_status
