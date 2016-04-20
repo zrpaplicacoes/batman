@@ -4,10 +4,10 @@
 
 # Default variables
 local default_battery_symbol='\u25b6'
-local default_danger_color='\e[0;31m'
-local default_alert_color='\e[0;33m'
-local default_safe_color='\e[0;32m'
-local default_full_color='\e[0;35m'
+local default_danger_color='\033[0;31m'
+local default_alert_color='\033[0;33m'
+local default_safe_color='\033[0;32m'
+local default_full_color='\033[0;35m'
 
 # Script variables
 local battery_symbol="${BATTERY_SYMBOL:-$default_battery_symbol}"
@@ -57,7 +57,7 @@ get_level() {
 
 # Reset color to default
 color_reset() {
-	echo "\e[m"
+	echo "\033[m"
 }
 
 # export battery status in RPROMPT
