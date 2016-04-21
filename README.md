@@ -45,4 +45,4 @@ source '~/bin/batman/plugin.sh'
 
 ## More info
 
-- [ZRP blog](http://www.zrp.com.br/blog) - PT-BR only :blush:
+- [ZRP blog](http://www.zrp.com.br/blog/2016/04/21/batman-cli-battery-manager/) - PT-BR only :blush:
