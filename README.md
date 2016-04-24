@@ -19,11 +19,15 @@ Look at those arrows :scream: :
 
 - Enter in the folder
 
-- Run the install by typing <code>./install.sh</code>
+- Run the install
 
 **or**
 
-<code> git clone https://github.com/zrpaplicacoes/batman.git | sh batman/install.sh </code>
+- <code> git clone https://github.com/zrpaplicacoes/batman.git </code>
+- 
+- <code> cd batman </code>
+- 
+- ./install.sh
 
 
 ## Configuration
