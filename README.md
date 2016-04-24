@@ -21,7 +21,7 @@ Look at those arrows :scream: :
 
 **or**
 
-<code> git clone git@github.com:zrpaplicacoes/batman.git | sh install.sh </code>
+<code> git clone https://github.com/zrpaplicacoes/batman.git | sh batman/install.sh </code>
 
 ***(assuming ssh configured)***
 
