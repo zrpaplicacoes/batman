@@ -17,6 +17,8 @@ Look at those arrows :scream: :
 
 - Clone the repo
 
+- Enter in the folder
+
 - Run the install by typing <code>./install.sh</code>
 
 **or**
