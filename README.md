@@ -23,7 +23,6 @@ Look at those arrows :scream: :
 
 <code> git clone https://github.com/zrpaplicacoes/batman.git | sh batman/install.sh </code>
 
-***(assuming ssh configured)***
 
 ## Configuration
 
