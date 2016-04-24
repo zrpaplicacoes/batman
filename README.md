@@ -23,11 +23,11 @@ Look at those arrows :scream: :
 
 **or**
 
-- <code> git clone https://github.com/zrpaplicacoes/batman.git </code>
-- 
-- <code> cd batman </code>
-- 
-- ./install.sh
+<code> git clone https://github.com/zrpaplicacoes/batman.git </code>
+
+<code> cd batman </code>
+
+<code> ./install.sh </code>
 
 
 ## Configuration
