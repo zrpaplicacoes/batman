@@ -7,7 +7,7 @@
 
 **Batman** is a simple shell plugin which adds in the Right Prompt icons showing battery status. 
 
-It's focused on programmers who spend lots of time programming in notebooks. :sunglasses:
+It's focused on programmers that spend lots of time programming in notebooks. :sunglasses:
 
 Look at those arrows :scream: :
 
